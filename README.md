@@ -8,13 +8,14 @@ This study explores an integration of network science and structuralist narratol
 
 This interdisciplinary method broadens the analytical scope beyond mere social interactions, and enhances our understanding of the multifaceted nature of characters and their dynamics in literature. My paper concludes by suggesting that networked understanding of character as a web of words can pave the way for “a unified theory of plot and style,” a significant breakthrough in literary studies as envisioned by Moretti. Building a comprehensive network theory of narrative, I argue, is a significant work that will refine the digital literary studies and revive the structuralist narrative theories.
 
-You can read the full published paper [here](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003098428).
+You can read the full published paper by downloading the pdf file in the repository, or [here](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003098428).
 
 ## Repository Structure
 
 - **data**: This folder contains the raw data used in the study.
 - **gephi_files**: This folder contains the Gephi project files used for network analysis and visualization.
 - **graph_images**: This folder contains images of the various graphs generated from the network analysis.
+- the pdf of the published paper
 
 ## Getting Started
 
