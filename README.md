@@ -8,7 +8,7 @@ This study explores an integration of network science and structuralist narratol
 
 This interdisciplinary method broadens the analytical scope beyond mere social interactions, and enhances our understanding of the multifaceted nature of characters and their dynamics in literature. My paper concludes by suggesting that networked understanding of character as a web of words can pave the way for “a unified theory of plot and style,” a significant breakthrough in literary studies as envisioned by Moretti. Building a comprehensive network theory of narrative, I argue, is a significant work that will refine the digital literary studies and revive the structuralist narrative theories.
 
-You can read the full published paper by downloading the pdf file in the repository, or [here](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003098428).
+You can read the full published paper by downloading the pdf file (Character_as_a_web_of_words_YongsooKim_2024.pdf) in the repository, or [here](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003098428).
 
 ## Repository Structure
 
@@ -31,10 +31,6 @@ To explore the materials provided in this repository, you can start by examining
 2. **Network Visualization**: Open the `.gephi` files in the `gephi_files` folder with Gephi software to explore the network visualizations interactively.
 3. **Graph Images**: Refer to the images in the `graph_images` folder for quick reference and visual summaries of the network analyses.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions, improvements, or issues, please feel free to open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -49,6 +45,6 @@ For any inquiries or further information, please contact the author at [vadoropu
 
 ---
 
-By examining characters as networks of words and traits, this study offers a novel perspective that enriches our understanding of narrative structures and literary analysis. We hope this repository serves as a valuable resource for researchers and enthusiasts in the field of digital humanities and literary studies.
+By examining characters as networks of words and traits, this study offers a new perspective that enriches our understanding of narrative structures and literary analysis. We hope this repository serves as a valuable resource for researchers and enthusiasts in the field of digital humanities and literary studies.
 
 Happy researching!
