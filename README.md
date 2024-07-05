@@ -39,7 +39,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Thank you for your interest in this study. If you use any part of this repository for your research or work, please cite the paper:
 
-> Yongsoo Kim. "Character as a Web of Words: Towards a Network Theory of Narrative." _The Journal of Criticism and Theory_ 29.2 pp.125-49 (2024). [Link to the published paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003098428).
+> Yongsoo Kim. "Character as a Web of Words: Towards a Network Theory of Narrative." _The Journal of Criticism and Theory_ vol. 29, no. 2, 2024, pp.125-49. [Link to the published paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003098428).
 
 For any inquiries or further information, please contact the author at [vadoropupille@gmail.com].
 
