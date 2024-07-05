@@ -33,7 +33,7 @@ To explore the materials provided in this repository, you can start by examining
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+CC BY-NC-ND 4.0
 
 ## Acknowledgements
 
